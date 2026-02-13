@@ -15,3 +15,7 @@ This repository contains a Power BI dashboard that analyzes Superstore sales dat
 2. Use slicers to filter data by Region or Segment.
 3. Export PDF if needed for offline view.
 
+## Insights (Summary)
+- Technology category drives highest revenue and profit.
+- Furniture category has a lower profit margin.
+- West region shows strongest performance.
