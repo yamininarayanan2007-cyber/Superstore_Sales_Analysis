@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard that analyzes Superstore sales dat
 - Insights about top-performing categories and regions
 
 ## How to Use
-1. Open `Superstore_Sales_Dashboard.pbix` in Power BI Desktop.
+1. Open `Sales_Report.pbix` in Power BI Desktop.
 2. Use slicers to filter data by Region or Segment.
 3. Export PDF if needed for offline view.
 
